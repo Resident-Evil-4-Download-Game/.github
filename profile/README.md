@@ -86,4 +86,4 @@ resident evil 4 setup, resident evil 4 installation guide, resident evil 4 torre
 ---
 
 ## 📄 License & Credits
-This repository is a **technical installation and optimization guide** for Resident Evil 4 on Windows.
+This repository is a **technical installation and optimization guide** for Resident Evil 4.
